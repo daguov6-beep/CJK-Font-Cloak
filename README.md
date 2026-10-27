@@ -1,5 +1,5 @@
 # CJK-Font-Cloak
-针对【Claude克劳德等AI】CJK字体指纹伪装｜浏览器前端指纹隐私防护油猴脚本，仅JS层面修改，无法更改真实IP，使用风险自负 | CJK Font Cloak, Tampermonkey userscript for browser frontend‑side fingerprint privacy protection. Only JS‑level modification, cannot change real IP, use at your own risk.
+针对【Claude克劳德等AI】CJK字体指纹伪装｜浏览器前端指纹隐私防护油猴脚 | CJK Font Cloak, Tampermonkey userscript for browser frontend‑side fingerprint privacy protection. Only JS‑level modification, cannot change real IP, use at your own risk.
 
 【【【【【【导入油猴使用】】】】】
 ⭐ 如果脚本对你有用，欢迎点Star，帮助更多人找到本项目。
@@ -32,7 +32,7 @@
 
 随便开个网站按 F12 → Console → 输 __cloakReport() 回车,把 issues 那段截图发我。它直接告诉我是「你没改」还是「脚本没跑」。
 ## 功能｜Features
-- 【中文】阻止网页检测你电脑装了哪些中文、日文、韩文字体，消除字体指纹
+- 【中文】阻止网页检测你电脑装了哪些中文、日文、韩文字体，消除字体指纹，，仅JS层面修改，无法更改真实IP，使用风险自负
 - 【English】Block webpage detection of local CJK system fonts, hide fingerprint of installed Chinese / Japanese / Korean fonts.
 
 - 【中文】欺骗网页JS接口，网站读取浏览器语言时拿到的是英文en‑US，看不到你的中文语言环境
