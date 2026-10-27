@@ -1,6 +1,6 @@
 # CJK-Font-Cloak
 针对【Claude克劳德等AI】CJK字体指纹伪装｜浏览器前端指纹隐私防护油猴脚 | CJK Font Cloak, Tampermonkey userscript for browser frontend‑side fingerprint privacy protection. Only JS‑level modification, cannot change real IP, use at your own risk.
-
+油猴连接：https://greasyfork.org/zh-CN/scripts/602450-%E9%98%B2-claude-chatgpt-%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%B0%81%E5%8F%B7-cjk-%E5%AD%97%E4%BD%93%E4%B8%8E%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E4%BC%AA%E8%A3%85%E5%B7%A5%E5%85%B7-cjk-font-locale-cloak
 【【【【【【导入油猴使用】】】】】
 ⭐ 如果脚本对你有用，欢迎点Star，帮助更多人找到本项目。
 <img width="1456" height="729" alt="image" src="https://github.com/user-attachments/assets/11502291-6c6e-4975-865a-31a23cf58053" />
